@@ -1,0 +1,49 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+    size: 30px;
+}
+header{
+background-color: purple;
+color: white;
+padding: 10px;
+;
+}
+
+header a{
+color: white;
+padding: 5px;
+border-radius: 18px;
+}
+
+h1{
+background-color: indigo;
+text-align: center;
+color: antiquewhite;
+border-radius: 18px;
+}
+
+footer p{
+background-color: darkviolet;
+border-radius: 18px;
+color: aliceblue;
+margin: 0;
+}
+
+.images{
+size: 20px;
+
+}
+    
+select{
+width: 20px ;
+
+height: 20px;
+}
+
+a{
+color: black;
+margin: 10px;
+text-decoration: none;
+}
+
